@@ -4,7 +4,7 @@
 * Description: Live statistics tracking the number of confirmed, dead, recover & active cases by country or global due to the Corona Virus. 
 * Plugin URI: 
 * Version: 3.4.0
-* Author: Md Rashed Hossain, shails
+* Author: Md Rashed Hossain
 * Author URI: http://wprashed.com/
 * Requires at least: 4.4
 * Tested up to: 5.7
