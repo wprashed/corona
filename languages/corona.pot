@@ -1,0 +1,202 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: corona 19\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2020-03-24 21:21+0700\n"
+"PO-Revision-Date: 2014-07-07 18:52+0100\n"
+"Last-Translator: Mte90 <mte90net@gmail.com>\n"
+"Language-Team: Tomiup <tomiup.com@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: corona.php:52
+msgid "Corona Live statistics"
+msgstr ""
+
+#: corona.php:53
+msgid "Corona"
+msgstr ""
+
+#: corona.php:101
+msgid "Every 10 minutes"
+msgstr ""
+
+#: corona.php:163
+msgid "Global"
+msgstr ""
+
+#: corona.php:165 corona.php:206 corona.php:223
+msgid "Confirmed"
+msgstr ""
+
+#: corona.php:166 corona.php:207 corona.php:224
+msgid "Deaths"
+msgstr ""
+
+#: corona.php:167 corona.php:208 corona.php:225
+msgid "Recovered"
+msgstr ""
+
+#: corona.php:168
+msgid "Total"
+msgstr ""
+
+#: corona.php:209
+msgid "Country"
+msgstr ""
+
+#: templates/admin.php:6
+msgid "Documentation"
+msgstr ""
+
+#: templates/admin.php:7
+msgid "Shortcode [corona]"
+msgstr ""
+
+#: templates/admin.php:9
+msgid "========== Global =========="
+msgstr ""
+
+#: templates/admin.php:17
+msgid "[corona]"
+msgstr ""
+
+#: templates/admin.php:19
+msgid "Copy & paste this shortcode into post, page or widget."
+msgstr ""
+
+#: templates/admin.php:20 templates/admin.php:37
+msgid "Attributes"
+msgstr ""
+
+#: templates/admin.php:22
+msgid "title:"
+msgstr ""
+
+#: templates/admin.php:22
+msgid "Title of box - default is \"Global\""
+msgstr ""
+
+#: templates/admin.php:23
+msgid "label_total:"
+msgstr ""
+
+#: templates/admin.php:23
+msgid "Total text default is \"Total\""
+msgstr ""
+
+#: templates/admin.php:24 templates/admin.php:41
+msgid "label_confirmed:"
+msgstr ""
+
+#: templates/admin.php:24 templates/admin.php:41
+msgid "Label Confirmed - default is \"Confirmed\""
+msgstr ""
+
+#: templates/admin.php:25 templates/admin.php:42
+msgid "label_deaths:"
+msgstr ""
+
+#: templates/admin.php:25 templates/admin.php:42
+msgid "Label Deaths - default is \"Deaths\""
+msgstr ""
+
+#: templates/admin.php:26 templates/admin.php:43
+msgid "label_recovered:"
+msgstr ""
+
+#: templates/admin.php:26 templates/admin.php:43
+msgid "Label Recovered - default is \"Recovered\""
+msgstr ""
+
+#: templates/admin.php:27
+msgid "style:"
+msgstr ""
+
+#: templates/admin.php:27
+msgid "default, 2, 3, 4, 5, list"
+msgstr ""
+
+#: templates/admin.php:28
+msgid "dark_mode:"
+msgstr ""
+
+#: templates/admin.php:28
+msgid "yes/no"
+msgstr ""
+
+#: templates/admin.php:30 templates/admin.php:46
+msgid "Example:"
+msgstr ""
+
+#: templates/admin.php:32
+msgid ""
+"[corona country=\"Vietnam\" title=\"Global\" style=\"2\" dark_mode="
+"\"no\" label_total=\"Total\" label_confirmed=\"Confirmed\" "
+"label_deaths=\"Deaths\" label_recovered=\"Recovered\"]"
+msgstr ""
+
+#: templates/admin.php:35
+msgid "Shortcode [corona-table]"
+msgstr ""
+
+#: templates/admin.php:36
+msgid ""
+"This shortcode to display table with sorting, searching and "
+"pagination."
+msgstr ""
+
+#: templates/admin.php:39
+msgid "searching:"
+msgstr ""
+
+#: templates/admin.php:39
+msgid "Show or hidden search box (value: true/false)"
+msgstr ""
+
+#: templates/admin.php:40
+msgid "showing:"
+msgstr ""
+
+#: templates/admin.php:40
+msgid "10, 25, 50 or 100"
+msgstr ""
+
+#: templates/admin.php:48
+msgid ""
+"[corona-table searching=\"true\" showing=\"10\" label_confirmed="
+"\"Confirmed\" label_deaths=\"Deaths\" label_recovered=\"Recovered\"]"
+msgstr ""
+
+#: templates/corona-map.php:192
+msgid "1-9"
+msgstr ""
+
+#: templates/corona-map.php:193
+msgid "10-99"
+msgstr ""
+
+#: templates/corona-map.php:194
+msgid "100-999"
+msgstr ""
+
+#: templates/corona-map.php:195
+msgid "1,000-9,999"
+msgstr ""
+
+#: templates/corona-map.php:196
+msgid "10,000+"
+msgstr ""
